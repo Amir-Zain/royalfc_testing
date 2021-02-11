@@ -1,0 +1,67 @@
+.section-title-wrap {
+    display: block;
+    background-color: #e6e6e6;
+    text-align: left;
+}
+.sidebar-block {
+    margin-bottom: 0px;
+}
+/* .section-title {
+    margin-top: 410px !important;
+} */
+.section-title-h {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 700;
+    vertical-align: middle;
+    text-transform: uppercase;
+    color: #333;
+    padding: 10px 15px;
+    position: relative;
+    margin: 0;
+    background-color: #f1f1f1;
+}
+.sidebar-inside-block {
+    padding: 0 0px 0 0px;
+}
+.results-table-wrap {
+    background-color: #fff;
+    font-size: 13px;
+    color: #333;
+}
+.results-table {
+    width: 100%;
+    margin-top: 50px !important;
+}
+.sidebar-block .section-btn {
+    color: #333;
+}
+.section-btn {
+    display: block;
+    padding: 10px 15px;
+    font-size: 11px;
+    background-color: #f1f1f1;
+    font-weight: 700;
+    color: #333;
+    vertical-align: middle;
+    text-transform: uppercase;
+    text-align: center;
+    -webkit-transition: ease-out 0.3s;
+    -moz-transition: ease-out 0.3s;
+    -o-transition: ease-out 0.3s;
+    transition: ease-out 0.3s;
+}
+.table-team {
+    width: 50px;
+    height: 50px;
+    float: l;
+}
+td {
+    padding: 1% 1%;
+}
+img {
+    margin-top: 0px;
+}
+.table-team-name {
+    margin-left: 10px;
+}
